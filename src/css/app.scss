@@ -1,1 +1,17 @@
 // app global css in SCSS form
+
+.hammer {
+  width: 80px;
+  height: auto;
+}
+
+ .overflow {
+  padding: 16px;
+  height: 100px;
+  overflow: auto;
+  background-color: rgba(#CBCBCB, 0.2);
+   border-radius: 24px;
+}
+.auto-height {
+  height: auto !important;
+}
